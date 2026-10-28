@@ -1,4 +1,4 @@
-El repte 1 : "" ha obtingut ... vots . <br>
+El repte 1 : "Problema de soroll a L'Hospitalet" ha obtingut ... vots . <br>
 El repte 2 : "" ha obtingut ... vots . <br>
 El repte 3 : "" ha obtingut ... vots . <br>
 El repte 4 : "" ha obtingut ... vots . <br>
