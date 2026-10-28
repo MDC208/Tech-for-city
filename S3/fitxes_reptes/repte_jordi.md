@@ -1,5 +1,5 @@
 
-## 🚨REPTE 2 : Problema d´habitatge a Sitges.
+## 🚨REPTE 2 : Problema d'habitatge a Sitges.
 | Camp | Detalls |
 | --- | --- |
 | **Tipus** | Social |
