@@ -1,19 +1,19 @@
-# Mapatge de stakeholders — Ajust del reg i dels parcs
+# Mapatge de stakeholders — Gestió intel·ligent del reg i estalvi d´aigua als parcs publics 
 
 ## Problema detectat
-Al llarg de l'any a causa de diverses causes que no es tenen en compte amb el sistema de reg es malbaraten bastants litres d'aigua, a més, a causa que als parcs només hi ha majoritàriament gespa (la qual necessita una quantitat d'aigua molt gran d'aigua) fa que l'aigua no s'aprofiti completament, en part a causa de la falta de diversitat en les plantes.
+Durant l'any es gasten molts litres d'aigua inútilment perquè el sistema de reg no té en compte factors com el temps que fa o la humitat de la terra. A més, com que la majoria de parcs només tenen gespa (que xucla molta aigua) i falta varietat de plantes, l'aigua no s'aprofita gens bé.
 
 ## Resum del mapatge
 
 | Grup d'interès | Tipus (directe / indirecte / influent) | Nivell d'afectació | Nivell d'influència |
 |---|---|---|---|
-| Departament de Parcs i Jardins | Directe | Alt | Alt |
-| Regidories de Medi Ambient i Sostenibilitat | Influent | Mitjà | Alt |
-| Departament de Tecnologia | Directe | Alt | Mitjà |
-| Àrea de Finances i Pressupostos | Influent | Baix | Alt |
-| Ciutadania i usuaris dels parcs | Indirecte | Mitjà | Baix |
-| Proveïdors tecnològics i de manteniment | Directe | Mitjà | Mitjà |
-| Entitats ecologistes i veïnals | Indirecte / Influent | Baix | Mitjà |
+| **Departament de Parcs i Jardins** | Directe | Alt | Alt |
+| **Regidories de Medi Ambient i Sostenibilitat** | Influent | Mitjà | Alt |
+| **Departament de Tecnologia** | Directe | Alt | Mitjà |
+| **Àrea de Finances i Pressupostos** | Influent | Baix | Alt |
+| **Ciutadania i usuaris dels parcs** | Indirecte | Alt | Baix |
+| **Proveïdors tecnològics i de manteniment** | Directe | Mitjà | Mitjà |
+| **Entitats ecologistes i veïnals** | Influent | Baix | Mitjà |
 
 ## Perfil: Alumnat
 
