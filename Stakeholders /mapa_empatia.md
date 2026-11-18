@@ -1,4 +1,4 @@
-# Mapatge de stakeholders — Calor a les aules
+# Mapatge de stakeholders — Ajust del reg i dels parcs
 
 ## Problema detectat
 Durant els mesos de setembre, octubre, maig i juny, les aules del centre superen
