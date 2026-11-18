@@ -1,7 +1,7 @@
 # Mapatge de stakeholders — Ajust del reg i dels parcs
 
 ## Problema detectat
-Al llarg del any a causa de diverses causes que no es tenen en compte amb el sistema de reg es malbaraten bastants llitres d'aigua, a més, a causa de que als parcs només hi ha majoritariament gespa (la cual necessita demasiada aigua) fa que l'aigua no s'aprofiti completament, en part a causa de la falta de diversidad en les plantes.
+Al llarg de l'any a causa de diverses causes que no es tenen en compte amb el sistema de reg es malbaraten bastants litres d'aigua, a més, a causa que als parcs només hi ha majoritàriament gespa (la qual necessita una quantitat d'aigua molt gran d'aigua) fa que l'aigua no s'aprofiti completament, en part a causa de la falta de diversitat en les plantes.
 
 ## Resum del mapatge
 
