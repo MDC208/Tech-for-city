@@ -1,10 +1,7 @@
 # Mapatge de stakeholders — Ajust del reg i dels parcs
 
 ## Problema detectat
-Durant els mesos de setembre, octubre, maig i juny, les aules del centre superen
-sovint els 28-30 °C. Això dificulta la concentració i el benestar de les persones
-que hi passen moltes hores, i el centre no disposa de ventilació ni de
-climatització adequades.
+Al llarg del any a causa de diverses causes que no es tenen en compte amb el sistema de reg es malbaraten bastants llitres d'aigua, a més, a causa de que als parcs només hi ha majoritariament gespa (la cual necessita demasiada aigua) fa que l'aigua no s'aprofiti completament, en part a causa de la falta de diversidad en les plantes.
 
 ## Resum del mapatge
 
