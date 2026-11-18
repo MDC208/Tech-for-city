@@ -85,9 +85,9 @@ Durant l'any es gasten molts litres d'aigua inútilment perquè el sistema de re
 
 | Camp | Descripció |
 |---|---|
-| Descripció del perfil | Persones que treballen a l'edifici, sovint amb horaris de tarda o primera hora, i que gestionen obertures de finestres, ventiladors i reparacions. |
-| Com els afecta el problema | Esforç físic en espais calorosos, més càrrega de feina per incidències i queixes, i exposició a la calor fora de l'horari lectiu. |
-| Necessitats | Mitjans adequats (ventiladors, persianes funcionals), temps per fer les tasques i que se'ls tingui en compte. |
-| Frustracions / pors | Ser els oblidats del mapa d'actors, rebre queixes sobre coses que no depenen d'ells. |
-| Expectatives | Reconeixement, recursos i canals directes amb la direcció. |
-| Capacitat d'adaptació | Pot intentar modificar horaris però dependrà de l'empresa i el centre educatiu |
+| Descripció del perfil | Associacions i entitats que defensen el medi ambient, la biodiversitat, els espais verds i els interessos dels veïns. |
+| Com els afecta el problema | Els preocupa el malbaratament d'aigua, la poca diversitat de plantes i la manca de vegetació adaptada al clima local. |
+| Necessitats | Protegir els recursos hídrics, augmentar la biodiversitat i participar en les decisions sobre els parcs. |
+| Frustracions / pors | Que no es protegeixi el medi ambient i que els parcs continuïn depenent de plantes que necessiten molta aigua. |
+| Expectatives | Tenir parcs més sostenibles, amb més varietat de plantes i un ús responsable de l'aigua. |
+| Capacitat d'adaptació | Poden informar la ciutadania, proposar millores, participar en activitats ambientals i col·laborar amb l'Ajuntament. |
