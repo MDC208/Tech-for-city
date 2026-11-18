@@ -5,17 +5,15 @@ Al llarg del any a causa de diverses causes que no es tenen en compte amb el sis
 
 ## Resum del mapatge
 
-| Grup d'interès | Tipus | Nivell d'afectació | Nivell d'influència |
+| Grup d'interès | Tipus (directe / indirecte / influent) | Nivell d'afectació | Nivell d'influència |
 |---|---|---|---|
-| Alumnat | Directe | Alt | Baix |
-| Professorat | Directe | Alt | Mitjà |
-| Personal de neteja i manteniment | Directe | Alt | Baix |
-| Alumnat amb problemes de salut (asma, cardiopaties, etc.) | Directe | Alt | Molt baix |
-| Famílies | Indirecte | Mitjà | Mitjà |
-| Equip directiu | Influent | Mitjà | Alt |
-| Departament d'Educació | Influent | Baix | Alt |
-| Ajuntament (propietat o manteniment de l'edifici) | Influent | Baix | Alt |
-| Empreses de climatització i eficiència energètica | Indirecte | Baix | Mitjà |
+| Departament de Parcs i Jardins | Directe | Alt | Alt |
+| Regidories de Medi Ambient i Sostenibilitat | Influent | Mitjà | Alt |
+| Departament de Tecnologia | Directe | Alt | Mitjà |
+| Àrea de Finances i Pressupostos | Influent | Baix | Alt |
+| Ciutadania i usuaris dels parcs | Indirecte | Mitjà | Baix |
+| Proveïdors tecnològics i de manteniment | Directe | Mitjà | Mitjà |
+| Entitats ecologistes i veïnals | Indirecte / Influent | Baix | Mitjà |
 
 ## Perfil: Alumnat
 
